@@ -1,4 +1,4 @@
-import logo from '../assets/YuviLogo.png';
+import logo from '../assets/yuvilogo.png';
 import {FaLinkedin} from 'react-icons/fa';
 import {FaGithub} from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
